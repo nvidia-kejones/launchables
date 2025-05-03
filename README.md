@@ -35,7 +35,7 @@ Launchables provide:
 
 ## 🛠️ Creating Your Own Launchable
 
-Want to create your own Launchable? Check out the [Brev documentation]([https://docs.nvidia.com/brev/](https://docs.nvidia.com/brev/latest/launchables-getting-started.html)) to learn how to package your projects for one-click deployment.
+Want to create your own Launchable? Check out the [Brev documentation](https://docs.nvidia.com/brev/](https://docs.nvidia.com/brev/latest/launchables-getting-started.html) to learn how to package your projects for one-click deployment.
 
 ## 📝 License
 
