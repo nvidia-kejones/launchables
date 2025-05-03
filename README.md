@@ -1,6 +1,6 @@
 # Launchables 🚀
 
-[Console](https://brev.nvidia.com) • [Docs](https://docs.nvidia.com/brev/) • [Launchables](/nvidia-kejones/launchables)
+[Console](https://brev.nvidia.com) • [Docs](https://docs.nvidia.com/brev/) • [Launchables](https://github.com/nvidia-kejones/launchables)
 
 This repository contains a collection of Launchables - one-click deployable GPU development environments for various AI and machine learning topics. Each Launchable has been configured with the minimum GPU requirements and comes with a deploy button for instant access.
 
