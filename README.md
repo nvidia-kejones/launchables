@@ -14,7 +14,7 @@ This repository contains a collection of Launchables - one-click deployable GPU 
 
 | Notebook | Description | Deploy |
 |----------|-------------|--------|
-| [Hugging Face Intro](https://github.com/nvidia-kejones/launchables/blob/main/hugging-face-intro.ipynb) | Introduction to Hugging Face libraries with GPU acceleration | [![Click here to deploy.](https://camo.githubusercontent.com/f7fc765ca4fc664292cafc8ccf6850f5ff5c51d7071612bc14cb72b7cc3da294/68747470733a2f2f627265762d6173736574732e73332e75732d776573742d312e616d617a6f6e6177732e636f6d2f6e762d6c622d6461726b2e737667)](https://brev.nvidia.com/launchable/deploy?launchableID=env-2wZ9ncjHf4Ub5nTHxuLkieAe5Jz) |
+| [Hugging Face Intro](https://github.com/nvidia-kejones/launchables/blob/main/hugging-face-intro.ipynb) | Introduction to Hugging Face libraries with GPU acceleration | [![ Click here to deploy.](https://brev-assets.s3.us-west-1.amazonaws.com/nv-lb-dark.svg)](https://brev.nvidia.com/launchable/deploy?launchableID=env-2wZ9ncjHf4Ub5nTHxuLkieAe5Jz) |
 
 ## 🚀 About Launchables
 
