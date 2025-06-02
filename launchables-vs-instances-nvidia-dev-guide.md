@@ -157,7 +157,7 @@ This repository demonstrates excellent Launchable practices:
 ## ❓ FAQ
 
 **Q: Can I convert my Instance to a Launchable?**
-A: Only if all assets become publicly accessible. You'll need to replace private components.
+A: There's no automatic conversion feature. Once all your assets become publicly accessible, you can create a new Launchable using the same configuration, but you'll need to manually rebuild it with public components.
 
 **Q: Why can't I make a Launchable with private Docker images?**
 A: Launchables are public templates. Others can't deploy what they can't access.
@@ -178,4 +178,3 @@ A: Use Instance sharing for internal collaboration. Consider creating a Launchab
 - **Collaborate**: Share Instance URLs with your team
 
 Remember: **Instances for development, Launchables for sharing!**
-
