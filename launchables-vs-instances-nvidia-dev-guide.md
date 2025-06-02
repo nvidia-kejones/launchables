@@ -25,7 +25,7 @@ Think of a **Launchable** as a **public recipe** 📝
 - A template that anyone can use to create an identical environment
 - All "ingredients" (container images, datasets, models) must be **publicly accessible**
 - Perfect for demos, tutorials, and open-source projects
-- Example: The [nvidia-kejones/launchables](https://github.com/nvidia-kejones/launchables) repository
+- Example: The [brevdev/launchables](https://github.com/brevdev/launchables) repository
 
 ### What is an Instance?
 Think of an **Instance** as your **actual workspace** 💻
@@ -62,7 +62,7 @@ dataset = load_dataset("nvidia-internal/new-synthetic-data")
 
 ### ✅ Perfect Launchable Examples
 
-**Scenario 1: Public Tutorial** (like the examples in nvidia-kejones/launchables)
+**Scenario 1: Public Tutorial** (like the examples in brevdev/launchables)
 ```dockerfile
 FROM nvcr.io/nvidia/pytorch:23.10-py3
 # All public assets
@@ -95,7 +95,7 @@ model = AutoModel.from_pretrained("microsoft/DialoGPT-medium")
 3. **Eventually Create Launchable** (when assets become public)
    - Replace private assets with public equivalents
    - Test the Launchable works end-to-end
-   - Publish to repository like nvidia-kejones/launchables
+   - Publish to repository like brevdev/launchables
 
 ### For Public Sharing
 
@@ -132,7 +132,7 @@ model = AutoModel.from_pretrained("microsoft/DialoGPT-medium")
 - [ ] Sensitive data is appropriately handled
 - [ ] Clear instructions for teammates
 
-## 🎓 Learning from nvidia-kejones/launchables
+## 🎓 Learning from brevdev/launchables
 
 This repository demonstrates excellent Launchable practices:
 
@@ -172,9 +172,10 @@ A: Use Instance sharing for internal collaboration. Consider creating a Launchab
 
 ## 🚀 Quick Actions
 
-- **Browse Examples**: Check out [nvidia-kejones/launchables](https://github.com/nvidia-kejones/launchables)
+- **Browse Examples**: Check out [brevdev/launchables](https://github.com/brevdev/launchables)
 - **Start Developing**: Create an Instance for your private work
 - **Share Publicly**: Create a Launchable when everything is public
 - **Collaborate**: Share Instance URLs with your team
 
 Remember: **Instances for development, Launchables for sharing!**
+
